@@ -1,4 +1,4 @@
-
+#last.text file canbe found at Python/Data_science_class/last.txt
 
 # Open last.txt file with read-only file mode.
 file = open("last.txt", "r")
