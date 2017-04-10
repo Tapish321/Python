@@ -10,7 +10,7 @@ Print ‘Correct’ and ‘Incorrect’ by checking the answer
 
 """
 
-# Sagar Chhadia (checked)
+
 
 import random
 
